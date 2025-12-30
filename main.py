@@ -19,7 +19,5 @@ def request(url, max_retries, wait_time, jitter, timeout):
 
     print("request failed after max retries")
 
-
-
 #request("http://www.youtubddffe.com/", 4, 1, 0.5, 5)
 request("https://google.com", 4, 1, 0.5, 5)
