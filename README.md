@@ -2,8 +2,6 @@
 
 ## Demonstrations of HTTP retry logic with exponential backoff and jitter in Python.
 
----
-
 ### Running with Docker (No Python installation required)
 
 #### Build the Docker image
